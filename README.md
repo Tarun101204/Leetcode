@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Tarun101204/Leetcode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Tarun101204/Leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Tarun101204/Leetcode/tree/master/0412-fizz-buzz) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Tarun101204/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tarun101204/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Tarun101204/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Tarun101204/Leetcode/tree/master/0268-missing-number) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Tarun101204/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
