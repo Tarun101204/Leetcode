@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Tarun101204/Leetcode/tree/master/0136-single-number) |
 | [0238-product-of-array-except-self](https://github.com/Tarun101204/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Tarun101204/Leetcode/tree/master/0268-missing-number) |
+| [0403-frog-jump](https://github.com/Tarun101204/Leetcode/tree/master/0403-frog-jump) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Tarun101204/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Tarun101204/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Bit Manipulation
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Tarun101204/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tarun101204/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0403-frog-jump](https://github.com/Tarun101204/Leetcode/tree/master/0403-frog-jump) |
 ## Memoization
 |  |
 | ------- |
