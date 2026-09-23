@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Tarun101204/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Tarun101204/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Tarun101204/Leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Tarun101204/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Tarun101204/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Tarun101204/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Tarun101204/Leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Tarun101204/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Array
 |  |
 | ------- |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Tarun101204/Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Tarun101204/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Tarun101204/Leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Tarun101204/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0403-frog-jump](https://github.com/Tarun101204/Leetcode/tree/master/0403-frog-jump) |
 | [0746-min-cost-climbing-stairs](https://github.com/Tarun101204/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Tarun101204/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Tarun101204/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/Tarun101204/Leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Tarun101204/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -96,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Tarun101204/Leetcode/tree/master/0027-remove-element) |
+| [0349-intersection-of-two-arrays](https://github.com/Tarun101204/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Simulation
 |  |
 | ------- |
