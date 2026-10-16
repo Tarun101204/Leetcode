@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Tarun101204/Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Tarun101204/Leetcode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Tarun101204/Leetcode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/Tarun101204/Leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Tarun101204/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Tarun101204/Leetcode/tree/master/0412-fizz-buzz) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Tarun101204/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Tarun101204/Leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Tarun101204/Leetcode/tree/master/0050-powx-n) |
+| [0342-power-of-four](https://github.com/Tarun101204/Leetcode/tree/master/0342-power-of-four) |
 ## Hash Table
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Tarun101204/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Tarun101204/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Tarun101204/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/Tarun101204/Leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Tarun101204/Leetcode/tree/master/0389-find-the-difference) |
 ## Dynamic Programming
 |  |
