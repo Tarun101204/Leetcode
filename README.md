@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Tarun101204/Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Tarun101204/Leetcode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Tarun101204/Leetcode/tree/master/0412-fizz-buzz) |
+| [0541-reverse-string-ii](https://github.com/Tarun101204/Leetcode/tree/master/0541-reverse-string-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Tarun101204/Leetcode/tree/master/0027-remove-element) |
 | [0287-find-the-duplicate-number](https://github.com/Tarun101204/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Tarun101204/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0541-reverse-string-ii](https://github.com/Tarun101204/Leetcode/tree/master/0541-reverse-string-ii) |
 ## Simulation
 |  |
 | ------- |
