@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Tarun101204/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Tarun101204/Leetcode/tree/master/0412-fizz-buzz) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Tarun101204/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
+| [2235-add-two-integers](https://github.com/Tarun101204/Leetcode/tree/master/2235-add-two-integers) |
 | [3870-count-commas-in-range](https://github.com/Tarun101204/Leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Tarun101204/Leetcode/tree/master/3871-count-commas-in-range-ii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Tarun101204/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
