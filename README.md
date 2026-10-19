@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Tarun101204/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Tarun101204/Leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Tarun101204/Leetcode/tree/master/0414-third-maximum-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Tarun101204/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Array
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Tarun101204/Leetcode/tree/master/0414-third-maximum-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Tarun101204/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Tarun101204/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Tarun101204/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Tarun101204/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Bit Manipulation
 |  |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Tarun101204/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Tarun101204/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Tarun101204/Leetcode/tree/master/0367-valid-perfect-square) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Tarun101204/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
 |  |
 | ------- |
