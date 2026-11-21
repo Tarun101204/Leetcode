@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Tarun101204/Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Tarun101204/Leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Tarun101204/Leetcode/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/Tarun101204/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Tarun101204/Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Tarun101204/Leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Tarun101204/Leetcode/tree/master/0367-valid-perfect-square) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Tarun101204/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Tarun101204/Leetcode/tree/master/0412-fizz-buzz) |
 ## Prefix Sum
 |  |
@@ -179,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Tarun101204/Leetcode/tree/master/0455-assign-cookies) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Tarun101204/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
