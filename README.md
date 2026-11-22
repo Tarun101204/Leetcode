@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Tarun101204/Leetcode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Tarun101204/Leetcode/tree/master/0412-fizz-buzz) |
 | [0541-reverse-string-ii](https://github.com/Tarun101204/Leetcode/tree/master/0541-reverse-string-ii) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Tarun101204/Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 ## Sorting
 |  |
 | ------- |
