@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Tarun101204/Leetcode/tree/master/0412-fizz-buzz) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Tarun101204/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2235-add-two-integers](https://github.com/Tarun101204/Leetcode/tree/master/2235-add-two-integers) |
+| [3360-stone-removal-game](https://github.com/Tarun101204/Leetcode/tree/master/3360-stone-removal-game) |
 | [3870-count-commas-in-range](https://github.com/Tarun101204/Leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Tarun101204/Leetcode/tree/master/3871-count-commas-in-range-ii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Tarun101204/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/Tarun101204/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Tarun101204/Leetcode/tree/master/0412-fizz-buzz) |
+| [3360-stone-removal-game](https://github.com/Tarun101204/Leetcode/tree/master/3360-stone-removal-game) |
 ## Prefix Sum
 |  |
 | ------- |
